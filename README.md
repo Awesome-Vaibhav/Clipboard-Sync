@@ -48,14 +48,6 @@ Everything stays on your device.
 
 ---
 
-## 📸 Screenshots
-
-| Home | Search | History |
-|------|---------|---------|
-| Screenshot | Screenshot | Screenshot |
-
----
-
 ## 🚀 Installation
 
 ```bash
