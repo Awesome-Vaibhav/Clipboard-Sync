@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Premium Slate Dark Circle Background -->
+    <path
+        android:fillColor="#12131C"
+        android:pathData="M 60,10 A 50,50 0 1,0 110,60 A 50,50 0 0,0 60,10 Z" />
+        
+    <!-- Background Inner Glow Ring -->
+    <path
+        android:strokeColor="#2F3146"
+        android:strokeWidth="1.5"
+        android:pathData="M 60,14 A 46,46 0 1,0 106,60 A 46,46 0 0,0 60,14 Z" />
+
+    <!-- Crossed Bones (Sleek, Dynamic Style) -->
+    <!-- Bone 1: Top-Left to Bottom-Right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 32,24 C 28,21 24,25 27,29 C 24,33 28,37 32,34 L 88,86 C 92,89 96,85 93,81 C 96,77 92,73 88,76 Z" />
+    <!-- Bone 2: Top-Right to Bottom-Left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 88,24 C 92,21 96,25 93,29 C 96,33 92,37 88,34 L 32,86 C 28,89 24,85 27,81 C 24,77 28,73 32,76 Z" />
+
+    <!-- White Skull Base -->
+    <!-- Head crown and cheeks -->
+    <path
+        android:fillColor="#F5F6F8"
+        android:pathData="M 60,32 C 45,32 42,46 42,58 C 42,66 45,72 49,75 L 49,85 C 49,88 51,90 54,90 L 66,90 C 69,90 71,88 71,85 L 71,75 C 75,72 78,66 78,58 C 78,46 75,32 60,32 Z" />
+
+    <!-- Eye Cavities (Fierce and expressive Jolly Roger eyes) -->
+    <!-- Left Eye -->
+    <path
+        android:fillColor="#1A1B26"
+        android:pathData="M 52,56 C 47,56 46,50 49,48 C 52,46 55,50 54,54 C 54,55 53,56 52,56 Z" />
+    <!-- Right Eye -->
+    <path
+        android:fillColor="#1A1B26"
+        android:pathData="M 68,56 C 73,56 74,50 71,48 C 68,46 65,50 66,54 C 66,55 67,56 68,56 Z" />
+
+    <!-- Nose Cavity (Triangle) -->
+    <path
+        android:fillColor="#1A1B26"
+        android:pathData="M 60,59 L 57.5,64 L 62.5,64 Z" />
+
+    <!-- Smiling Mouth (Fierce Pirate Grin) -->
+    <path
+        android:strokeColor="#1A1B26"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 48,74 Q 60,82 72,74" />
+        
+    <!-- Teeth / Vertical lines -->
+    <path
+        android:strokeColor="#1A1B26"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54,75.5 L 54,79 M 60,77 L 60,81 M 66,75.5 L 66,79" />
+
+    <!-- Luffy's Signature Triple-striked Scar under Left Eye -->
+    <path
+        android:strokeColor="#1A1B26"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M 48,60 C 49,62 51,62 52,61 M 48,61 L 48,63 M 51,60 L 51,62" />
+
+    <!-- Luffy's Straw Hat -->
+    <!-- Yellow Crown (Tilted slightly to the right for dynamic gesture) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 40,43 C 40,22 80,22 80,43 Z" />
+
+    <!-- Highlight on the hat crown -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M 46,36 C 48,27 72,27 74,36 Z" />
+
+    <!-- Crimson Red Ribbon band -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M 39.5,39 C 45,37 75,37 80.5,39 L 81,44 L 39,44 Z" />
+
+    <!-- Crimson Red Ribbon shading / shadow on the right side -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M 64,38.5 C 70,38 78,39 80.5,39 L 81,44 L 64,44 Z" />
+
+    <!-- Hat Brim (Wide angled, curves down dynamically on sides) -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M 23,43 C 23,43 35,46 60,46 C 85,46 97,43 97,43 C 102,41 103,45 97,47 C 85,51 35,51 23,47 C 17,45 18,41 23,43 Z" />
+
+    <!-- Shadow under the hat brim on the skull -->
+    <path
+        android:fillColor="#E0E2E6"
+        android:pathData="M 36,46 C 45,50 75,50 84,46 L 82,52 C 72,55 48,55 38,52 Z" />
+
+    <!-- Straw Hat texture folds for depth and style -->
+    <path
+        android:strokeColor="#FFB300"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"
+        android:pathData="M 52,28 Q 54,32 50,35" />
+    <path
+        android:strokeColor="#FFB300"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"
+        android:pathData="M 68,28 Q 66,32 70,35" />
+</vector>

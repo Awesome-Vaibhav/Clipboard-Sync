@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Clipboard Board -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M38,34 L70,34 A6,6 0 0 1 76,40 L76,78 A6,6 0 0 1 70,84 L38,84 A6,6 0 0 1 32,78 L32,40 A6,6 0 0 1 38,34 Z" />
+        
+    <!-- Clip Board Highlights -->
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M34,44 L74,44 L74,46 L34,46 Z" />
+        
+    <!-- Top Metal Binder -->
+    <path
+        android:fillColor="#5C6BC0"
+        android:pathData="M48,24 L60,24 A3,3 0 0 1 63,27 L63,35 A1,1 0 0 1 62,36 L46,36 A1,1 0 0 1 45,35 L45,27 A3,3 0 0 1 48,24 Z" />
+        
+    <!-- Top Binder Wire Handle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M51,24 L51,20 C51,17 57,17 57,20 L57,24" />
+
+    <!-- Synchronizing Loop Arrow Right -->
+    <path
+        android:strokeColor="#3F51B5"
+        android:fillColor="#00000000"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M44,56 A10,10 0 0,1 64,56" />
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M64,56 L61,51 L67,51 Z" />
+
+    <!-- Synchronizing Loop Arrow Left -->
+    <path
+        android:strokeColor="#3F51B5"
+        android:fillColor="#00000000"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M64,62 A10,10 0 0,1 44,62" />
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M44,62 L47,67 L41,67 Z" />
+</vector>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Clipboard Sync</string>
+    <string name="accessibility_service_desc">Monitors Gboard and system clipboard changes to automatically sync copies locally inside the app.</string>
+    
+    <string name="status_title">Background Sync Status</string>
+    <string name="status_active">Sync Active</string>
+    <string name="status_inactive">Sync Offline</string>
+    <string name="status_active_desc">Auto-saving Gboard and text copies instantly.</string>
+    <string name="status_inactive_desc">Enable Accessibility Service to capture copies without opening the app.</string>
+    <string name="enable_service_btn">Activate Background Sync</string>
+    
+    <string name="search_hint">Search clipboard history…</string>
+    <string name="empty_copied_title">No Clips Found</string>
+    <string name="empty_copied_desc">Copy any text using Gboard or standard system copy, and it will automatically show up here!</string>
+    
+    <string name="add_manual_title">Create Custom Clip</string>
+    <string name="add_manual_hint">Type or paste text here…</string>
+    <string name="add_manual_save">Save Clip</string>
+    <string name="clear_history_title">Clear History</string>
+    <string name="clear_history_message">Are you sure you want to permanently delete all clipboard history? This action cannot be undone.</string>
+    
+    <string name="toast_copied">Copied to clipboard!</string>
+    <string name="toast_deleted">Clip deleted</string>
+    <string name="toast_cleared">History cleared</string>
+    <string name="toast_pinned">Clip pinned</string>
+    <string name="toast_unpinned">Clip unpinned</string>
+    
+    <string name="confirm">Clear All</string>
+    <string name="cancel">Cancel</string>
+    
+    <string name="tab_history">My Clips</string>
+    <string name="tab_about">About Us</string>
+    <string name="about_developed_by">Developed with ♥ by</string>
+    <string name="about_developer_name">Vaibhav</string>
+    <string name="about_telegram">Telegram</string>
+    <string name="about_telegram_subtitle">@BlackDex for news and updates</string>
+    <string name="about_description">Clipboard Sync is a beautiful utility designed to safely and securely sync files under the Gboard ecosystem locally on-device. Your data never leaves your device.</string>
+</resources>

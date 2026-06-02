@@ -1,0 +1,6 @@
+{
+  "name": "Clipboard Sync",
+  "description": "Auto-save everything you copy from Gboard in the background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
