@@ -1,3 +1,5 @@
+<img src="clipboard-sync-banner.png" alt="AV Calculator Banner" width="100%">
+
 # 📋 Clipboard Sync
 
 A lightweight Android clipboard manager that automatically saves and organizes copied text for quick access.
